@@ -1,0 +1,2 @@
+# ThePoliticalSimulator
+Simulates politics
